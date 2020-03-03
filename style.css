@@ -1,0 +1,15 @@
+h1, p {
+  font-family: Lato;
+}
+
+.beer-picture{
+  height: auto;
+max-width: 30px;
+}
+
+.beer-component{
+justify-content: center;
+text-align: center;
+border: black 1px solid;
+padding-top: 20px
+}
