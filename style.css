@@ -13,3 +13,18 @@ text-align: center;
 border: black 1px solid;
 padding-top: 20px
 }
+
+.startPicture{
+  width: 15%;
+  padding-top: 10px;
+}
+.breadComponent {
+  border: solid black 1px;
+  margin-top: 10px;
+}
+
+.breadComponentName {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 25px;
+
+}
